@@ -8,6 +8,7 @@ Reasoning tasks have aroused wide concerns in the research community. In this re
 
 ## Text Reasoning
 - [NAACL 2021] DAGN: Discourse-Aware Graph Network for Logical Reasoning [[pdf]](https://arxiv.org/abs/2103.14349)
+- [NIPS 2021] Open Rule Induction [[pdf]](https://arxiv.org/abs/2110.13577)
 - [arxiv] Fact-driven Logical Reasoning [[pdf]](https://arxiv.org/abs/2105.10334)
 - [ACL 2022 Findings] Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text [[pdf]](https://arxiv.org/abs/2105.03659)
 - [ACL 2022 Findings] MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning [[pdf]](https://aclanthology.org/2022.findings-acl.276.pdf)
