@@ -10,6 +10,7 @@ Reasoning tasks have aroused wide concerns in the research community. Categoried
 
 
 ## KG Reasoning
+- [ICDE 2023] Relational Message Passing for Fully Inductive Knowledge Graph Completion [[pdf]](https://arxiv.org/pdf/2210.03994.pdf)
 - [SIGIR 2022] Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction [[pdf]](https://dl.acm.org/doi/abs/10.1145/3477495.3531996)
 
 
