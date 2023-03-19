@@ -7,7 +7,13 @@ Reasoning tasks have aroused wide concerns in the research community. In this re
 
 
 ## Text Reasoning
+- [NAACL 2021] DAGN: Discourse-Aware Graph Network for Logical Reasoning [[pdf]](https://arxiv.org/abs/2103.14349)
+- [arxiv] Fact-driven Logical Reasoning [[pdf]](https://arxiv.org/abs/2105.10334)
+- [ACL 2022 Findings] Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text [[pdf]](https://arxiv.org/abs/2105.03659)
+- [ACL 2022 Findings] MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning [[pdf]](https://aclanthology.org/2022.findings-acl.276.pdf)
+- [ACL 2022] AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine Reading Comprehension [[pdf]](https://arxiv.org/abs/2203.08992)
 - [SIGIR 2022] Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning [[pdf]](https://dl.acm.org/doi/abs/10.1145/3477495.3532016)
+- [arxiv] Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text [[pdf]](https://arxiv.org/abs/2301.02983)
 
 ## KG Reasoning
 - [ICDE 2023] Relational Message Passing for Fully Inductive Knowledge Graph Completion [[pdf]](https://arxiv.org/pdf/2210.03994.pdf)
