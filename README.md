@@ -3,14 +3,14 @@ Reasoning tasks have aroused wide concerns in the research community. Categoried
 
 
 ## Survey
-- Towards Reasoning in Large Language Models: A Survey [arxiv] [[pdf]](https://arxiv.org/abs/2212.10403)
+- [arxiv] Towards Reasoning in Large Language Models: A Survey [[pdf]](https://arxiv.org/abs/2212.10403)
 
 
 ## Text Reasoning
 
 
 ## KG Reasoning
-- Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction [SIGIR 2022] [[pdf]](https://dl.acm.org/doi/abs/10.1145/3477495.3531996)
+- [SIGIR 2022] Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction [[pdf]](https://dl.acm.org/doi/abs/10.1145/3477495.3531996)
 
 
 ## Image Reasoning
