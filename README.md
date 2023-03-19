@@ -3,7 +3,7 @@ Reasoning tasks have aroused wide concerns in the research community. Categoried
 
 
 ## Survey
-- Towards Reasoning in Large Language Models: A Survey [arxiv] 
+- Towards Reasoning in Large Language Models: A Survey [arxiv] [[pdf]](https://arxiv.org/abs/2212.10403)
 
 
 ## Text Reasoning
