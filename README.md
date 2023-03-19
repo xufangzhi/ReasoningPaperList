@@ -17,6 +17,9 @@ Reasoning tasks have aroused wide concerns in the research community. Categoried
 ## Image Reasoning
 
 ## KG-Text Reasoning
+- [ICLR 2022] GreaseLM: Graph Reasoning Enhanced Language Models For Question Answering [[pdf]](https://arxiv.org/abs/2201.08860)
+
+
 
 ## Multimodal KG Reasoning
 
