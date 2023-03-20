@@ -28,7 +28,7 @@ In this repository, we use tags ``De``, ``In``, ``Ab`` to represent Deductive Re
 - [ACL 2022] AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine Reading Comprehension [[pdf]](https://arxiv.org/abs/2203.08992) ``Mix``
 - [SIGIR 2022] Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning [[pdf]](https://dl.acm.org/doi/abs/10.1145/3477495.3532016) ``Mix``
 - [arxiv] Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text [[pdf]](https://arxiv.org/abs/2301.02983) ``Mix``
-- [arxiv 2022] FOLIO: Natural Language Reasoning with First-Order Logic [[pdf]](https://arxiv.org/pdf/2209.00840.pdf)
+- [arxiv 2022] FOLIO: Natural Language Reasoning with First-Order Logic [[pdf]](https://arxiv.org/pdf/2209.00840.pdf) ``De``
 
 ## KG Reasoning
 - [ICDE 2023] Relational Message Passing for Fully Inductive Knowledge Graph Completion [[pdf]](https://arxiv.org/pdf/2210.03994.pdf)
