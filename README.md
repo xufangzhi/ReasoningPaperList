@@ -1,7 +1,15 @@
 # ReasoningPaperList
-Reasoning tasks have aroused wide concerns in the research community. In this repository, we mainly focus on the reasoning models which cover neural-symbolic, complex reasoning, logical rules or multi-hop. Categoried by input modalities, there are single modality like (1) Text, (2) Knowledge Graph (KG), (3) Images, and also multi-modality tasks like (4) KG-Text, (5) MKG, (6) Image-Text. If we miss some of works or make some mistakes, please kindly point out. 
+Reasoning tasks have aroused wide concerns in the research community. Reasoning refers to a wide range of things, which is an abstract concept in reality. In this repository, we mainly focus on the reasoning models which cover neural-symbolic, complex reasoning, logical rules or multi-hop. 
 
-Reasoning refers to a wide range of things, which is an abstract concept in reality. In category, there includes the following reasoning forms: (1) Deductive Reasoning, (2) Inductive Reasoning, (3) Abductive Reasoning, and also some other branches like (i) analogical reasoning, (ii) causal reasoning, (iii) probabilistic reasoning. 
+Categoried by input modalities, there are single modality like (1) Text, (2) Knowledge Graph (KG), (3) Images, and also multi-modality tasks like (4) KG-Text, (5) MKG, (6) Image-Text.
+
+Categoried by reasoning forms, there include the followings: (1) Deductive Reasoning, (2) Inductive Reasoning, (3) Abductive Reasoning, and also some other branches like (i) analogical reasoning, (ii) causal reasoning, (iii) probabilistic reasoning. 
+
+Categoried by downstream tasks, there are: (1) Arithmetic Reasoning, (2) Commonsense Reasoning, (3) Symbolic Reasoning, (4) Logical Reasoning, (5) Others.
+
+Most of the current survey papers in the large area of reasoning only focus on single modality reasoning, or focus on one type of reasoning (e.g., [1] below only addresses on the `informal deductive reasoning'). Also it lacks the exploration on how the LLMs work among different reasoning forms and what are the limitations of LLMs on different reasoning forms. 
+
+If we miss some of works or make some mistakes, please kindly point out. 
 
 
 ## Survey
