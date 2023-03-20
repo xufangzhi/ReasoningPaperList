@@ -1,6 +1,8 @@
 # ReasoningPaperList
 Reasoning tasks have aroused wide concerns in the research community. In this repository, we mainly focus on the reasoning models which cover neural-symbolic, complex reasoning, logical rules or multi-hop. Categoried by input modalities, there are single modality like (1) Text, (2) Knowledge Graph (KG), (3) Images, and also multi-modality tasks like (4) KG-Text, (5) MKG, (6) Image-Text. If we miss some of works or make some mistakes, please kindly point out. 
 
+Reasoning refers to a wide range of things, which is an abstract concept in reality. In category, there includes the following reasoning forms: (1) Deductive Reasoning, (2) Inductive Reasoning, (3) Abductive Reasoning, and also some other branches like (i) analogical reasoning, (ii) causal reasoning, (iii) probabilistic reasoning. 
+
 
 ## Survey
 - [arxiv] Towards Reasoning in Large Language Models: A Survey [[pdf]](https://arxiv.org/abs/2212.10403)
