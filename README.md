@@ -19,15 +19,15 @@ In this repository, we use tags ``De``, ``In``, ``Ab`` to represent Deductive Re
 
 
 ## Text Reasoning
-- [NAACL 2021] DAGN: Discourse-Aware Graph Network for Logical Reasoning [[pdf]](https://arxiv.org/abs/2103.14349) ``All``
+- [NAACL 2021] DAGN: Discourse-Aware Graph Network for Logical Reasoning [[pdf]](https://arxiv.org/abs/2103.14349) ``Mix``
 - [NIPS 2021] Open Rule Induction [[pdf]](https://arxiv.org/abs/2110.13577) ``In``
-- [arxiv] Fact-driven Logical Reasoning [[pdf]](https://arxiv.org/abs/2105.10334) ``All``
-- [ACL 2022 Findings] Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text [[pdf]](https://arxiv.org/abs/2105.03659) ``All``
-- [ACL 2022 Findings] MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning [[pdf]](https://aclanthology.org/2022.findings-acl.276.pdf) ``All``
+- [arxiv] Fact-driven Logical Reasoning [[pdf]](https://arxiv.org/abs/2105.10334) ``Mix``
+- [ACL 2022 Findings] Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text [[pdf]](https://arxiv.org/abs/2105.03659) ``Mix``
+- [ACL 2022 Findings] MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning [[pdf]](https://aclanthology.org/2022.findings-acl.276.pdf) ``Mix``
 - [ACL 2022 Findings] AbductionRules: Training Transformers to Explain Unexpected Inputs [[pdf]](https://aclanthology.org/2022.findings-acl.19) ``De``
-- [ACL 2022] AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine Reading Comprehension [[pdf]](https://arxiv.org/abs/2203.08992) ``All``
-- [SIGIR 2022] Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning [[pdf]](https://dl.acm.org/doi/abs/10.1145/3477495.3532016) ``All``
-- [arxiv] Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text [[pdf]](https://arxiv.org/abs/2301.02983) ``All``
+- [ACL 2022] AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine Reading Comprehension [[pdf]](https://arxiv.org/abs/2203.08992) ``Mix``
+- [SIGIR 2022] Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning [[pdf]](https://dl.acm.org/doi/abs/10.1145/3477495.3532016) ``Mix``
+- [arxiv] Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text [[pdf]](https://arxiv.org/abs/2301.02983) ``Mix``
 
 ## KG Reasoning
 - [ICDE 2023] Relational Message Passing for Fully Inductive Knowledge Graph Completion [[pdf]](https://arxiv.org/pdf/2210.03994.pdf)
