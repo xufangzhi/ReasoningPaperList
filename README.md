@@ -4,6 +4,7 @@ Reasoning tasks have aroused wide concerns in the research community. In this re
 
 ## Survey
 - [arxiv] Towards Reasoning in Large Language Models: A Survey [[pdf]](https://arxiv.org/abs/2212.10403)
+- [arxiv] Knowledge Graph Reasoning with Logics and Embeddings: Survey and Perspective [[pdf]](https://arxiv.org/pdf/2202.07412.pdf)
 
 
 ## Text Reasoning
