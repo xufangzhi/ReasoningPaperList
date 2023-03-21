@@ -19,7 +19,9 @@ In this repository, we use tags ``De``, ``In``, ``Ab`` to represent Deductive Re
 
 
 ## Text Reasoning
+- [IJCAI 2020] Transformers as Soft Reasoners over Language [[pdf]](https://www.ijcai.org/proceedings/2020/0537.pdf) ``De``
 - [NAACL 2021] DAGN: Discourse-Aware Graph Network for Logical Reasoning [[pdf]](https://arxiv.org/abs/2103.14349) ``Mix``
+- [ACL 2021 Findings] ProofWriter: Generating Implications, Proofs, and Abductive Statements over Natural Language [[pdf]](https://aclanthology.org/2021.findings-acl.317.pdf) ``Ab`` ``De``
 - [NIPS 2021] Open Rule Induction [[pdf]](https://arxiv.org/abs/2110.13577) ``In``
 - [arxiv] Fact-driven Logical Reasoning [[pdf]](https://arxiv.org/abs/2105.10334) ``Mix``
 - [ACL 2022 Findings] Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text [[pdf]](https://arxiv.org/abs/2105.03659) ``Mix``
