@@ -19,6 +19,8 @@ In this repository, we use tags ``De``, ``In``, ``Ab`` to represent Deductive Re
 
 
 ## Text Reasoning
+- [ICLR 2020] ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning [[pdf]](https://arxiv.org/abs/2002.04326) ``Mix``
+- [IJCAI 2020] LogiQA: A Challenge Dataset for Machine Reading Comprehension with Logical Reasoning [[pdf]](https://arxiv.org/abs/2007.08124) ``Mix``
 - [IJCAI 2020] Transformers as Soft Reasoners over Language [[pdf]](https://www.ijcai.org/proceedings/2020/0537.pdf) ``De``
 - [NAACL 2021] DAGN: Discourse-Aware Graph Network for Logical Reasoning [[pdf]](https://arxiv.org/abs/2103.14349) ``Mix``
 - [ACL 2021 Findings] ProofWriter: Generating Implications, Proofs, and Abductive Statements over Natural Language [[pdf]](https://aclanthology.org/2021.findings-acl.317.pdf) ``Ab`` ``De``
