@@ -19,6 +19,7 @@ In this repository, we use tags ``De``, ``In``, ``Ab`` to represent Deductive Re
 
 
 ## Text Reasoning
+- [EMNLP 2019] CLUTRR: A Diagnostic Benchmark for Inductive Reasoning from Text [[pdf]](https://aclanthology.org/D19-1458.pdf) ``In``
 - [ICLR 2020] ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning [[pdf]](https://arxiv.org/abs/2002.04326) ``Mix``
 - [IJCAI 2020] LogiQA: A Challenge Dataset for Machine Reading Comprehension with Logical Reasoning [[pdf]](https://arxiv.org/abs/2007.08124) ``Mix``
 - [IJCAI 2020] Transformers as Soft Reasoners over Language [[pdf]](https://www.ijcai.org/proceedings/2020/0537.pdf) ``De``
