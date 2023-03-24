@@ -49,6 +49,7 @@ In this repository, we use tags ``De``, ``In``, ``Ab`` to represent Deductive Re
 - [EMNLP 2020] Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering [[pdf]](https://aclanthology.org/2020.emnlp-main.99/) ``De``
 - [NAACL 2021] QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering [[pdf]](https://arxiv.org/abs/2104.06378) ``De``
 - [NAACL 2022] JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering [[pdf]](https://aclanthology.org/2022.naacl-main.372/) ``De``
+- [EMNLP 2022] DRLK: Dynamic Hierarchical Reasoning with Language Model and Knowledge Graph for Question Answering [[pdf]](https://aclanthology.org/2022.emnlp-main.342/) ``De``
 - [ICLR 2022] GreaseLM: Graph Reasoning Enhanced Language Models For Question Answering [[pdf]](https://arxiv.org/abs/2201.08860) ``De``
 - [ICLR 2022] GNN Is A Counter？Revisiting GNN For Question Answering [[pdf]](https://arxiv.org/abs/2110.03192) ``De``
 - [WWW 2023] Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer [[pdf]](https://arxiv.org/abs/2303.03922) ``De``
