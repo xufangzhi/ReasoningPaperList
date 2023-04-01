@@ -15,6 +15,7 @@ In this repository, we use tags ``De``, ``In``, ``Ab`` to represent Deductive Re
 
 ## Survey
 - [arxiv] Towards Reasoning in Large Language Models: A Survey [[pdf]](https://arxiv.org/abs/2212.10403) ``De``
+- [arxiv] Logical Reasoning over Natural Language as Knowledge Representation: A Survey [[pdf]](https://arxiv.org/pdf/2303.12023v1.pdf) ``Mix``
 - [arxiv] Knowledge Graph Reasoning with Logics and Embeddings: Survey and Perspective [[pdf]](https://arxiv.org/pdf/2202.07412.pdf)
 
 
